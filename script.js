@@ -76,55 +76,55 @@ const products = [
         id: 13,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (1).jpeg"
+        image: "image/p1.jpeg"
     },
     {
         id: 14,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (2).jpeg"
+        image: "image/p2.jpeg"
     },
     {
         id: 15,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (3).jpeg"
+        image: "image/p3.jpeg"
     },
     {
         id: 16,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (4).jpeg"
+        image: "image/p4.jpeg"
     },
     {
         id: 17,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (5).jpeg"
+        image: "image/p5.jpeg"
     },
     {
         id: 18,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (6).jpeg"
+        image: "image/p6.jpeg"
     },
     {
         id: 19,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (7).jpeg"
+        image: "image/p7.jpeg"
     },
     {
         id: 19,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (8).jpeg"
+        image: "image/p8.jpeg"
     },
     {
         id: 20,
         name: "SANMUDIND",
         price: 15000,
-        image: "image/p (9).jpeg"
+        image: "image/p9.jpeg"
     },
 
     
